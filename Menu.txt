@@ -1,0 +1,74 @@
+Popcorn (Salted, Caramel, Mix) Small
+Rs.500
+
+Popcorn (Salted, Caramel, Mix) Large
+Rs.700
+
+Drink
+Rs.250
+
+DEAL1: Popcorn (Salted, Caramel, Mix) Small + Drink
+Rs.600
+
+DEAL2: Popcorn (Salted, Caramel, Mix) Large + Drink
+Rs.800
+
+Nachos
+Rs.350
+
+DEAL3: Nachos + Drink
+Rs.500
+
+Hotdog
+Rs.450
+
+DEAL4: Hotdog + Drink
+Rs.600
+
+Fries
+Rs.300
+
+DEAL5: Fries + Drink
+Rs.450
+
+Pizza Slice
+Rs.200
+
+Chicken Wings (6 pieces)
+Rs.550
+
+Mozzarella Sticks (6 pieces)
+Rs.400
+
+Onion Rings
+Rs.300
+
+Burger (Cheese, Chicken, Veg)
+Rs.500
+
+Taco (Beef, Chicken, Veg)
+Rs.450
+
+Pretzel (Salted, Cinnamon)
+Rs.300
+
+Ice Cream (Cup, Cone, Sundae)
+Rs.250
+
+Cookie
+Rs.100
+
+Chips Packet
+Rs.100
+
+Chocolate Bar
+Rs.150
+
+Coffee
+Rs.500
+
+Tea
+Rs.100
+
+Water Bottle
+Rs.100
